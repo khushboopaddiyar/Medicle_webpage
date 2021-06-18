@@ -1,0 +1,69 @@
+button {
+  background-color: #27ae60;
+  height: 35px;
+  color: white;
+  text-align: center;
+}
+
+.image {
+  background-color: #dfe6e9;
+  height: 350px;
+  width: 450px;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.subImage {
+  background-color: #dfe6e9;
+  height: 82px;
+  width: 108px;
+  margin-top: 2px;
+  margin-right: 6px;
+  margin-bottom: 5px;
+}
+
+th {
+  color: #0a3d62
+}
+
+.contactHeading {
+  color: #0a3d62;
+  background-color: #dfe6e9;
+  margin-left: 10px;
+  height: 30px;
+  text-align: center;
+  width: 50px
+}
+
+.contactNumber {
+  background-color: #0a3d62;
+  color: white;
+  height: 30px;
+  text-align: center;
+  margin-right: 30px;
+}
+
+.prize {
+  color: red;
+  text-align: center;
+}
+
+.footer {
+  background-color: #dfe6e9;
+}
+
+.copyright {
+  background-color: #27ae60;
+  text-align: center;
+  color: white;
+  height: 30px;
+}
+
+.footerText {
+  color: #0a3d62;
+}
+
+.marginBasic {
+  margin: 20px;
+}
